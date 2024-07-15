@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Created from tutorial: [How to Build a Counter Button with React, TailwindCSS, and TypeScript](https://www.freecodecamp.org/news/build-a-counter-button-with-react)
+
 ## Getting Started
 
 First, run the development server:
@@ -35,4 +37,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-Created from tutorial: [How to Build a Counter Button with React, TailwindCSS, and TypeScript](https://www.freecodecamp.org/news/build-a-counter-button-with-react)
+
